@@ -1,5 +1,5 @@
 # BibleSentiment
-Sentiment Analysis of the Bible
+Sentiment Analysis of the four Gospels
 
 Use this link to launch a dockerized version of this project. This will allow you to run the code in the browser and see the results of the analysis.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wthegamer/BibleSentiment/main)
