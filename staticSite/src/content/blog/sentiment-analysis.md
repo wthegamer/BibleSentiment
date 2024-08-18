@@ -2,7 +2,7 @@
 title: "Sentiment Analysis of the Gospels"
 description: "A Python notebook focused on analyzing the four Gospels"
 pubDate: "Aug 04 2024"
-heroImage: "../../Gospel.png"
+heroImage: "../Gospel.png"
 ---
 # Inspiration
 This was my senior project for my Experiential Learning class at Wilmington University. As a software engineer at a largish corporate company, the opportunity to choose what you want to work on is few and far between. Even when you are choosing, you are usually still working with a team that is influencing the direction and scope of the project. In other words, you might not always feel inspired or have been regularly working out your creative muscles. Luckily my previous coursework included, as a resource, a really fun project by Alice Zhao that analyzed several comedian's sets using [natural language processing](https://www.ibm.com/topics/natural-language-processing). Here's the presentation and the GitHub Repo:
